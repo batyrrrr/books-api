@@ -1,0 +1,11 @@
+.button {
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px 10px;
+  outline: none;
+  border: none;
+}
+
+.outlined {
+border: 1px solid orange;
+}

@@ -1,0 +1,14 @@
+.select-wrapper {
+  display: flex;
+  color: #fff;
+  gap: 10px;
+  margin-top: 10px;
+}
+.select-root {
+  padding: 3px 5px ;
+  color: gray;
+  font-size: 15px;
+}
+.select-label {
+  font-size: 16px;
+}

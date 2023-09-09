@@ -1,0 +1,8 @@
+.search {
+  width: 100%;
+  padding: 5px;
+  outline: none;
+  transition: .3s;
+  border: 2px solid var(--white-color);
+  padding: 8px;
+}

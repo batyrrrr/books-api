@@ -1,0 +1,10 @@
+.content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  background-color: 	#D8D8D8;
+  max-width: 200px;
+  min-height: 250px;
+  border-radius: 10px;
+}

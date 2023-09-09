@@ -1,0 +1,15 @@
+.fetchWrapper {
+  display: flex;
+  align-items: flex-end;
+}
+
+.fetchNextButton {
+  border: 1px solid #fff;
+  padding: 10px 16px;
+  outline: none;
+  transition: .3s;
+  background-color: orange;
+}
+.fetchNextButton:hover {
+  border: 1px solid black;
+}

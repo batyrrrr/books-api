@@ -1,0 +1,5 @@
+export { store } from './config/store'
+export type { ThunkConfig } from './types/ThunkConfig'
+export type { ExtraRg } from './types/extraArg'
+export type { StateSchema } from './types/stateSchema'
+export { useAppDispatch } from './config/store'
