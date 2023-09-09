@@ -1,4 +1,4 @@
-import InvalSearch from '@/assets/not-f.avif'
+import InvalSearch from '@/assets/not-found.jpg'
 import './invalidSearch.css'
 
 export const InvalidSearch = () => {

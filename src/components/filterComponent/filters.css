@@ -13,6 +13,9 @@
   .filters {
     width: 300px;
   }
+  .sort {
+    flex-direction: column;
+  }
 }
 .searchTitle {
   color: var(--white-color);
